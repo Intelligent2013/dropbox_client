@@ -2,4 +2,4 @@
 /download
 nbactions.xml 
 *.bak
-#application.properties
+application.properties
